@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div>자동 배포 성공</div>;
+  return <h2>자동 배포 성공</h2>;
 }
 
 export default App;
